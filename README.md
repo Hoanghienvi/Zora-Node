@@ -55,6 +55,7 @@ Close the file by pressing CTRL + X . You’ll be asked if you want to save the 
 
 # Start a screen session with :
 screen -S log
+
 docker compose up --build
 
 # Your Node Is Up and Running. You can detach from the screen by pressing CTRL + A + D
