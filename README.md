@@ -44,8 +44,7 @@ nano .env
 ![image](https://github.com/Hoanghienvi/Zora-Node/assets/87926002/28e4f804-15bb-4ca0-a280-b4b88f9bb40a)
 ![image](https://github.com/Hoanghienvi/Zora-Node/assets/87926002/c9661b5f-4eca-434d-82b0-dfea593b8fb7)
 
-#Edit file config: 
-nano .env
+# Edit file config:  nano .env
 
 # "Replace <http://11rpc>" with your Alchemy Account API key (HTTPS)
 ![image](https://github.com/Hoanghienvi/Zora-Node/assets/87926002/fd93845b-b639-4f6d-900e-5102b640a2fe)
