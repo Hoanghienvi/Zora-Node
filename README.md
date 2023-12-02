@@ -26,10 +26,15 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose -y
 
 # Clone the Conduit Github repository.
 git clone https://github.com/Hoanghienvi/node_zora.git
+
 cd node
+
 ./download-config.py zora-mainnet-0
+
 export CONDUIT_NETWORK=zora-mainnet-0
+
 cp .env.example .env
+
 nano .env
 
 # "Replace <http://11rpc>" with your Alchemy Account API key (HTTPS)
